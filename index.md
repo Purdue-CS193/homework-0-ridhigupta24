@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- The TA's teaching the class are cool
+- CS193 is helpful with various programming tools
+- It will give us software development job experiences
 
 1. Numbered
 2. List
